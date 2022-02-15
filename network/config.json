@@ -5,22 +5,22 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": ""
+    "text": "Simon Hauville"
   },
   "text": {
     "more": "",
     "intro": "",
-    "title": "test"
+    "title": "galaxie médiatque normande sur twitter"
   },
   "legend": {
-    "edgeLabel": "liensss",
-    "colorLabel": "force",
-    "nodeLabel": "bbb"
+    "edgeLabel": "liens",
+    "colorLabel": "degré pondéré entrant (quantité de liens pointant vers le noeud)",
+    "nodeLabel": "Autorité (qualité des liens)"
   },
   "features": {
     "search": true,
     "groupSelectorAttribute": "Label",
-    "hoverBehavior": "default"
+    "hoverBehavior": "dim"
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
