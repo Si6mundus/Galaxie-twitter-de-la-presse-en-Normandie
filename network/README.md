@@ -1,3 +1,11 @@
+## Test de cartographie à partir de la collecte de données sur Twitter. 
+
+Récupération des données avec le script pyhton [Nucoll](https://github.com/jdevoo/nucoll)
+Cartographie avec [Gephi](https://gephi.org/) et export (qui reste largement à peaufiner) avec le module d'extension [SigmaExporter](https://github.com/oxfordinternetinstitute/gephi-plugins/tree/sigmaexporter-plugin) ce qui reste à peaufiner.
+Export 
+
+----
+
 Template provided by InteractiveVis project
 http://blogs.oii.ox.ac.uk/vis/
 https://github.com/oxfordinternetinstitute/InteractiveVis/
